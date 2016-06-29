@@ -1,5 +1,4 @@
 /* file SumMatrix.cpp
-   Programmer -- Jonathan Armstrong
    March. 27, 2012
    Adds two matrixes together using overloaded operators*/
 #include <iostream>
